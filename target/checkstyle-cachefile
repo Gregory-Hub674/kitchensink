@@ -1,0 +1,14 @@
+#Wed Oct 16 15:15:19 CDT 2024
+D\:\\JavaWorkPlace\\jboss-eap-quickstarts\\kitchensink\\src\\main\\java\\org\\jboss\\as\\quickstarts\\kitchensink\\controller\\MemberController.java=1729105368902
+D\:\\JavaWorkPlace\\jboss-eap-quickstarts\\kitchensink\\src\\main\\java\\org\\jboss\\as\\quickstarts\\kitchensink\\data\\MemberListProducer.java=1729105368903
+D\:\\JavaWorkPlace\\jboss-eap-quickstarts\\kitchensink\\src\\main\\java\\org\\jboss\\as\\quickstarts\\kitchensink\\data\\MemberRepository.java=1729105368903
+D\:\\JavaWorkPlace\\jboss-eap-quickstarts\\kitchensink\\src\\main\\java\\org\\jboss\\as\\quickstarts\\kitchensink\\model\\Member.java=1729105368904
+D\:\\JavaWorkPlace\\jboss-eap-quickstarts\\kitchensink\\src\\main\\java\\org\\jboss\\as\\quickstarts\\kitchensink\\rest\\JaxRsActivator.java=1729105368904
+D\:\\JavaWorkPlace\\jboss-eap-quickstarts\\kitchensink\\src\\main\\java\\org\\jboss\\as\\quickstarts\\kitchensink\\rest\\MemberResourceRESTService.java=1729105368905
+D\:\\JavaWorkPlace\\jboss-eap-quickstarts\\kitchensink\\src\\main\\java\\org\\jboss\\as\\quickstarts\\kitchensink\\service\\MemberRegistration.java=1729105368906
+D\:\\JavaWorkPlace\\jboss-eap-quickstarts\\kitchensink\\src\\main\\java\\org\\jboss\\as\\quickstarts\\kitchensink\\util\\Resources.java=1729105368906
+D\:\\JavaWorkPlace\\jboss-eap-quickstarts\\kitchensink\\src\\main\\resources\\META-INF\\persistence.xml=1729105368907
+D\:\\JavaWorkPlace\\jboss-eap-quickstarts\\kitchensink\\src\\test\\java\\org\\jboss\\as\\quickstarts\\kitchensink\\test\\MemberRegistrationIT.java=1729105368917
+D\:\\JavaWorkPlace\\jboss-eap-quickstarts\\kitchensink\\src\\test\\java\\org\\jboss\\as\\quickstarts\\kitchensink\\test\\RemoteMemberRegistrationIT.java=1729105368918
+configuration*?=08C24365AE464533A07C5D1C0CDF243A6D3EAC30
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
